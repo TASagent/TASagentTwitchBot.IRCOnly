@@ -1,6 +1,6 @@
 # TASagentTwitchBot.IRCOnly
 
-Bastardization of my modular C# [twitch bot development framework](https://github.com/TASagent/TASagentTwitchBotCore).  Specialized for [Darkanine](https://www.twitch.tb/Darkanine).
+Bastardization of my modular C# [twitch bot development framework](https://github.com/TASagent/TASagentTwitchBotCore).  Specialized for [Darkanine](https://www.twitch.tv/Darkanine).
 
 ## How do I use this?
 
